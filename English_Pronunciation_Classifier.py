@@ -78,7 +78,7 @@ st.markdown("""
 
 
 st.markdown("---")
-st.markdown("📂 [View the source code on GitHub](https://github.com/namamu/pronunciation-ai)")
+st.markdown("📂 [View the source code on GitHub](https://github.com/DwikyXYudha/English-Pronunciation-Classifier)")
 st.markdown("🧑‍💻 Created by Dwiky - NLP Enthusiast")
 
 
