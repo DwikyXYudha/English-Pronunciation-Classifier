@@ -19,13 +19,13 @@ with col1:
     st.markdown("### 🎯 Basic Mode")
     st.markdown("Compare your spoken words with the reference text.")
     if st.button("Try Basic Mode"):
-        st.switch_page(r"pages\01_Practice_Pronunciation_(Basic).py")
+        st.switch_page(r"pages\01_Practice_Pronunciation_Basic.py")
 
 with col2:
     st.markdown("### 🧠 Advanced Mode")
     st.markdown("Uses an ML classifier trained on audio features to score your pronunciation.")
     if st.button("Try Advanced Mode"):
-        st.switch_page("pages/02_Practice_Pronunciation_(Advanced).py")
+        st.switch_page("pages/02_Practice_Pronunciation_Advanced.py")
 
 st.markdown("---")
 st.subheader("⚙️ System Overview")
