@@ -1,0 +1,32 @@
+[project]
+name = "nlp-projects"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "altair[all]>=5.5.0",
+    "datasets>=3.5.1",
+    "ffmpeg-normalize>=1.31.3",
+    "google-genai>=1.13.0",
+    "gradio>=5.28.0",
+    "ipykernel>=6.29.5",
+    "kokoro>=0.9.4",
+    "langchain>=0.3.24",
+    "librosa>=0.11.0",
+    "misaki[en]>=0.9.4",
+    "numpy==1.24.4",
+    "onnxruntime==1.21.0",
+    "pip>=25.1",
+    "polars>=1.29.0",
+    "pydub>=0.25.1",
+    "pyloudnorm>=0.1.1",
+    "python-dotenv>=1.1.0",
+    "scikit-learn>=1.6.1",
+    "soundfile>=0.13.1",
+    "streamlit>=1.45.0",
+    "streamlit-webrtc>=0.62.4",
+    "torch>=2.7.0",
+    "torchaudio>=2.7.0",
+    "transformers>=4.51.3",
+]
